@@ -55,16 +55,25 @@ Demand for Big Data skills is extremely high, and being able to prove your exper
 • IBM, Cisco, and Oracle together advertised 26,488 open positions that required Big Data expertise in the last twelve months.
 
 1.Data analytics is now a priority for top organizations
+
 2.Increasing job opportunities
+
 3.Increasing pay for data analytics professionals
+
 4.Big data analytics is everywhere
+
 5.You will have various job titles from which to choose
    -Metrics and Analytics Specialist
    -Data Analyst
    -Big Data Engineer
    -Data Analytics Consultant
+   
 6.You will be at the core of decision-making in the company
+
 7.Adoption rate of big data analytics is high
+
 8.Data analytics is taking over faster than expected
+
 9.It represents perfect freelancing opportunities
+
 10.Develop new revenue streams
